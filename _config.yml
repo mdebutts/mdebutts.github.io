@@ -13,14 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Matt DeButts
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Testing testing testing heyyyyyy
-twitter_username: \@debutts
-github_username: mdebutts
-minimal_mistakes_skin: dirt
+title      : "Matt DeButts"
+subtitle   : "Political Communication • Journalism • China"
+description: >
+  PhD Candidate in Communication (minor in Political Science) at Stanford.
+  I study jouranlism, digital propaganda, and computational methods for
+  understanding media–state relations in China and beyond.
+twitter_username: "\@debutts"
+github_username: "mdebutts"
+minimal_mistakes_skin: "mint"
 search: true
+
+# Google Analytics (uncomment when ready)
+# google_analytics: "G-XXXXXXX"
 
 # Build settings
 markdown: kramdown
@@ -59,15 +64,17 @@ author:
   name   : "Matt DeButts"
   avatar : "/assets/images/wang-huning.jpg"
   bio    : "PhD Candidate\n
-  Department of Communication\n
   Stanford University"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
+    - label: "CV (PDF)"
+      icon : "far fa-fw fa-file-pdf"
+      url  : "/assets/DeButts_CV.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=bxtrWkcAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=bxtrWkcAAAAJ&hl"
+    - label: "ORCID"
+      icon : "ai ai-orcid"
+      url  : "https://orcid.org/0009-0005-3751-8756"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/debutts"
@@ -77,6 +84,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mdebutts"
+
+# ----- SEO / SOCIAL META -----
+social:
+  type:  "person"
+  name:  "Matt DeButts"
+  links:                                  # duplicate key platforms for rich cards
+    - "https://twitter.com/debutts"
+    - "https://scholar.google.com/citations?user=bxtrWkcAAAAJ&hl"
+    - "https://orcid.org/0009-0005-3751-8756"
 
 footer:
   links:
