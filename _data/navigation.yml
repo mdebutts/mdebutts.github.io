@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "CV"
     url: /assets/DeButts_CV.pdf/
-    external: trie
+    external: true
   - title: "Research"
     url: /research/
   - title: "Journalism"
