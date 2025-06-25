@@ -23,6 +23,7 @@ twitter_username: "debutts"
 github_username: "mdebutts"
 minimal_mistakes_skin: "dirt"
 search: true
+academicons: true
 
 robots: "noindex,nofollow" # Toggle this when you're ready
 
