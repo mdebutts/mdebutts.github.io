@@ -17,7 +17,7 @@ title: Matt DeButts
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Testing testing testing heyyyyyy
-twitter_username: @debutts
+twitter_username: \@debutts
 github_username: mdebutts
 minimal_mistakes_skin: dirt
 search: true
