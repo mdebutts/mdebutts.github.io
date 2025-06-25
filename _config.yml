@@ -63,8 +63,9 @@ plugins:
 author:
   name   : "Matt DeButts"
   avatar : "/assets/images/wang-huning.jpg"
-  bio    : "PhD Candidate\n
-  Stanford University"
+  bio    : |
+    PhD Candidate
+    Stanford University"
   links:
     - label: "CV (PDF)"
       icon : "far fa-fw fa-file-pdf"
