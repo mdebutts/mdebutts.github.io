@@ -1,6 +1,7 @@
 ---
 permalink: /journalism/
 title: "Selected Journalism"
+classes: wide
 ---
 
 - [Newsworthiness, Trump, and the Facebook Oversight Board](https://www.cjr.org/the_new_gatekeepers/facebook-oversight-board-2.php)  

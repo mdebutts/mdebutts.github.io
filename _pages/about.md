@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 I am a PhD candidate in the [Department of Communication](https://comm.stanford.edu/) at Stanford University, with a minor in Political Science. I'm advised by [Jennifer Pan](https://jenpan.com) and a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/).

@@ -18,8 +18,8 @@ $type-size-6: 0.65em;
 $type-size-7: 0.55em;
 $type-size-8: 0.5em;
 
-// Full width content
-$max-width: 100%;
+// 80% width content
+$max-width: 80%;
 $right-sidebar-width-narrow: 180px;
 $right-sidebar-width: 200px;
 $right-sidebar-width-wide: 220px;
@@ -29,7 +29,7 @@ $right-sidebar-width-wide: 220px;
 
 // Additional custom styles
 html {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 body {
@@ -82,7 +82,7 @@ h3 {
 }
 
 .page__inner-wrap {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .sidebar {

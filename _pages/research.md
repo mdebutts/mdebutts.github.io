@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+classes: wide
 ---
 
 ## Peer-Reviewed Publications
