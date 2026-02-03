@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title      : "Matt DeButts (WEBSITE UNDER CONSTRUCTION)"
+title      : "Matt DeButts"
 subtitle   : "Political Communication • Journalism • China"
 description: >
   PhD Candidate in Communication (minor in Political Science) at Stanford.
-  I study jouranlism, digital propaganda, and computational methods for
-  understanding media–state relations in China and beyond.
+  I study journalism, digital propaganda, and computational methods for
+  understanding media-state relations in China and beyond.
 twitter_username: "debutts"
 github_username: "mdebutts"
 minimal_mistakes_skin: "dirt"
@@ -66,10 +66,11 @@ plugins:
 
 author:
   name   : "Matt DeButts"
-  avatar : "/assets/images/wang-huning.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : |
-    PhD Candidate
+    PhD Candidate in Communication
     Stanford University
+    Knight-Hennessy Scholar
   links:
     - label: "CV (PDF)"
       icon : "far fa-fw fa-file-pdf"
