@@ -4,87 +4,83 @@
 
 @charset "utf-8";
 
-// Custom font
-$global-font-family: "Palatino Linotype", "Palatino", "Book Antiqua", Georgia, serif;
-$header-font-family: "Palatino Linotype", "Palatino", "Book Antiqua", Georgia, serif;
+// Match Yingdan's system font stack
+$global-font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$header-font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
-// Smaller base font size
-$type-size-1: 1.4em;
-$type-size-2: 1.1em;
-$type-size-3: 1em;
-$type-size-4: 0.85em;
-$type-size-5: 0.75em;
-$type-size-6: 0.65em;
-$type-size-7: 0.55em;
-$type-size-8: 0.5em;
+// Match Yingdan's heading sizes
+$type-size-1: 1.563em;
+$type-size-2: 1.25em;
+$type-size-3: 1.125em;
+$type-size-4: 1.0625em;
+$type-size-5: 1em;
+$type-size-6: 0.75em;
+$type-size-7: 0.6875em;
+$type-size-8: 0.625em;
 
-// 80% width content
-$max-width: 80%;
-$right-sidebar-width-narrow: 180px;
-$right-sidebar-width: 200px;
-$right-sidebar-width-wide: 220px;
+// Match Yingdan's max-width
+$max-width: 1280px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-// Additional custom styles
+// Match Yingdan's responsive font sizes
 html {
-  font-size: 14px;
+  font-size: 16px;
+}
+
+@media (min-width: 48em) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 64em) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 80em) {
+  html {
+    font-size: 18px;
+  }
 }
 
 body {
-  line-height: 1.4;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 2em 0 0.5em;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+h1 {
+  margin-top: 0;
 }
 
 .page__content {
-  font-size: 0.9em;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
-.page__content p {
-  margin-bottom: 0.8em;
-  line-height: 1.4;
+// Match Yingdan's footer styling
+.page__footer {
+  color: #fff !important;
 }
 
-.page__content ul, .page__content ol {
-  margin-bottom: 0.8em;
-  line-height: 1.4;
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
 }
 
-.page__content li {
-  margin-bottom: 0.3em;
-}
-
-.author__bio {
-  font-size: 0.8em;
-  line-height: 1.3;
-}
-
-.page__title {
-  font-size: 1.3em;
-  margin-bottom: 0.5em;
-}
-
-h2 {
-  font-size: 1.1em;
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
-}
-
-h3 {
-  font-size: 0.95em;
-  margin-top: 1em;
-  margin-bottom: 0.4em;
-}
-
-.page {
-  padding-right: 0;
-}
-
-.page__inner-wrap {
-  max-width: 80%;
-}
-
-.sidebar {
-  padding-right: 1em;
+// Notice boxes with black text
+.page__content .notice,
+.page__content .notice--primary,
+.page__content .notice--info,
+.page__content .notice--warning,
+.page__content .notice--success,
+.page__content .notice--danger {
+  color: #000;
 }
