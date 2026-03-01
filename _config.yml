@@ -22,7 +22,7 @@ description: >
 twitter_username: "debutts"
 github_username: "mdebutts"
 minimal_mistakes_skin: "default"
-search: true
+search: false
 academicons: true
 
 robots: "noindex,nofollow" # Toggle this when you're ready

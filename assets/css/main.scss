@@ -65,9 +65,17 @@ h1 {
   line-height: 1.5;
 }
 
-// Match Yingdan's footer styling
+// Footer: darker and more compact
 .page__footer {
-  color: #fff !important;
+  color: #ccc !important;
+  background-color: #1a1a1a;
+  padding: 1em 0;
+  margin-top: 2em;
+  font-size: 0.75em;
+}
+
+.page__footer-follow {
+  padding: 0;
 }
 
 .page__footer-follow .social-icons i,
@@ -83,18 +91,31 @@ h1 {
   }
 }
 
-// Mobile: make author profile prominent and prevent horizontal overflow
+// Mobile: about page sidebar — full-width photo on top, name + bio below
 @media (max-width: 64em) {
+  .sidebar {
+    max-width: 100%;
+    overflow: hidden;
+    text-align: center;
+  }
+
   .author__avatar {
+    display: block;
+    width: 100%;
+
     img {
-      max-width: 250px;
-      width: 250px;
+      max-width: 100%;
+      width: 100%;
     }
   }
 
   .author__content {
+    display: block;
+    width: 100%;
+
     .author__name {
       font-size: 1.5em;
+      margin-top: 0.5em;
     }
 
     .author__bio {
@@ -102,26 +123,9 @@ h1 {
     }
   }
 
-  // Prevent sidebar from causing horizontal scroll
-  .sidebar {
-    max-width: 100%;
-    overflow: hidden;
-  }
-
+  // Hide follow button on mobile
   .author__urls-wrapper {
-    max-width: 100%;
-
-    .author__urls {
-      flex-wrap: wrap;
-      max-width: 100%;
-    }
-  }
-
-  // Follow button: wrap below instead of extending right
-  .btn--inverse {
-    max-width: 100%;
-    white-space: normal;
-    word-wrap: break-word;
+    display: none;
   }
 }
 
@@ -163,28 +167,22 @@ h1 {
 }
 
 @media (max-width: 48em) {
-  .journalism-item {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
   .journalism-logo {
-    width: 200px;
-    margin-right: 0;
-    margin-bottom: 0.75em;
+    width: 100px;
+    margin-right: 1em;
 
     img {
-      max-height: 120px;
+      max-height: 70px;
     }
   }
 
   .journalism-text {
     a {
-      font-size: 1.1em;
+      font-size: 0.95em;
     }
 
     p {
-      font-size: 1em;
+      font-size: 0.85em;
     }
   }
 }

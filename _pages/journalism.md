@@ -2,6 +2,7 @@
 permalink: /journalism/
 # title: "Selected Journalism"
 classes: wide
+author_profile: false
 ---
 
 <div class="journalism-item">
