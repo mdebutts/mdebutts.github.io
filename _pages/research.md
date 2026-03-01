@@ -5,7 +5,6 @@ classes: wide
 ---
 
 ## Peer-Reviewed Publications
-
 **Matt DeButts**\*, Jennifer Pan\*. Reporting After Removal: The Effects of Journalist Expulsion on Foreign News Coverage. *Journal of Communication*, 2024. [\*co-first author] [[link](https://doi.org/10.1093/joc/jqae001)]
 
 Alexander Spangher, James Youn, **Matt DeButts**, Nanyun Peng, Emilio Ferrara, Jonathan May. Explaining Mixtures of Sources in News Articles. *EMNLP Proceedings*, 2024.
