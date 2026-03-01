@@ -83,6 +83,55 @@ h1 {
   }
 }
 
+// Journalism article rows with logos
+.journalism-item {
+  display: flex;
+  align-items: center;
+  padding: 1.2em 0;
+  border-bottom: 1px solid #e0e0e0;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.journalism-logo {
+  flex-shrink: 0;
+  width: 100px;
+  margin-right: 1.5em;
+
+  img {
+    max-width: 100%;
+    max-height: 60px;
+    object-fit: contain;
+  }
+}
+
+.journalism-text {
+  a {
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  p {
+    margin: 0.25em 0 0;
+    color: #555;
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 30em) {
+  .journalism-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .journalism-logo {
+    margin-right: 0;
+    margin-bottom: 0.75em;
+  }
+}
+
 // Notice boxes with black text
 .page__content .notice,
 .page__content .notice--primary,
@@ -91,4 +140,15 @@ h1 {
 .page__content .notice--success,
 .page__content .notice--danger {
   color: #000;
+}
+
+/* Remove large page title at top of each tab */
+.page__title {
+  display: none;
+}
+
+/* Remove extra spacing that title block leaves behind */
+.page__header {
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
