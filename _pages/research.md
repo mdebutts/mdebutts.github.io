@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+# title: "Research"
 classes: wide
 ---
 

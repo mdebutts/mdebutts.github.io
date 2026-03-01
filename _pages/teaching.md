@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+# title: "Teaching"
 ---
 
 ## Stanford University

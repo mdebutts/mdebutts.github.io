@@ -1,6 +1,6 @@
 ---
 permalink: /journalism/
-title: "Selected Journalism"
+# title: "Selected Journalism"
 classes: wide
 ---
 

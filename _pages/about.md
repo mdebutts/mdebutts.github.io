@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+# title: "About"
 classes: wide
 ---
 
