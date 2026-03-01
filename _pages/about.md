@@ -4,29 +4,8 @@ title: "About"
 classes: wide
 ---
 
-I am a PhD candidate in the [Department of Communication](https://comm.stanford.edu/) at Stanford University, with a minor in Political Science. I'm advised by [Jennifer Pan](https://jenpan.com) and a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/).
+I am a PhD candidate in the [Department of Communication](https://comm.stanford.edu/) at Stanford University, with a minor from the [Department of Political Science](https://politicalscience.stanford.edu/). I'm also a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/), a PhD scholar at [Stanford Data Science](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program), and a former graduate fellow at the [Stanford Center for Human-Centered Artificial Intelligence](https://hai.stanford.edu/news/stanford-hai-welcomes-graduate-postdoc-fellows). Prior to academia, I was also a China-based journalist for about five years. My [writing](https://mdebutts.github.io/journalism/) from that period was published with the *Los Angeles Times*, *Foreign Policy*, and *Vox*, among others. As a wandering expat, I also ended up doing various other jobs, such as working as a contributing editor for the [Economist Intelligence Unit](https://www.eiu.com/). At Stanford, I'm advised by [Jennifer Pan](https://jenpan.com). 
 
-My research examines **journalism, propaganda, and media-state relations**—particularly in the context of China. I use computational methods combined with qualitative approaches to understand how authoritarian states shape global information flows and how journalists and citizens navigate censorship and political pressure.
+My research examines **authoritarian influence on global media production** and **state-society relations in China**, alongside a developing line of work on **political self-censorship**. My work has been published in the *Journal of Communication*, *Social Media + Society*, *Communication and the Public*, and *China Quarterly* (forthcoming), as well as in *Findings of the Association for Computational Linguistics: EMNLP*, a conference proceeding. My research typically uses a combination of computational methods, large-scale datasets, and qualitative interviews to identify government intervention and evaluate its influence on media reporting and political behavior. 
 
-Before pursuing my PhD, I worked as a journalist based in Beijing, reporting for the *Los Angeles Times*, *Sixth Tone*, *ChinaFile*, and other outlets. This experience informs my scholarly interest in the practical challenges foreign correspondents face when covering authoritarian regimes.
-
-## Education
-
-**Stanford University** — Stanford, CA
-- Ph.D. in Communication (minor in Political Science), *2021–present*
-  - Advisor: Jennifer Pan
-- M.A. in Communication, *2019–2021*
-  - Knight-Hennessy Scholar
-
-**Peking University** — Beijing, China
-- M.A. in China Studies, Yenching Academy, *2016–2018*
-
-**Amherst College** — Amherst, MA
-- B.A. in Law, Jurisprudence and Social Thought, *2010–2014*
-  - Phi Beta Kappa, Magna Cum Laude
-
-## Contact
-
-- Email: matt.debutts [at] gmail.com
-- Twitter/X: [@debutts](https://x.com/debutts)
-- WeChat: mdebutts
+I am a proud graduate of [Amherst College](https://www.amherst.edu/) and a strong advocate for liberal arts education, especially in the era of artificial intelligence. I also earned an M.A. in Journalism from [Stanford University](https://journalism.stanford.edu/) and an M.A. in China Studies from [Peking University](https://english.pku.edu.cn/), where I was a Yenching Scholar. I also lectured for a year at [China Foreign Affairs University](https://en.cfau.edu.cn/) in Beijing.
