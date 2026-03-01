@@ -83,7 +83,7 @@ h1 {
   }
 }
 
-// Mobile: make author profile prominent
+// Mobile: make author profile prominent and prevent horizontal overflow
 @media (max-width: 64em) {
   .author__avatar {
     img {
@@ -98,8 +98,30 @@ h1 {
     }
 
     .author__bio {
-      font-size: 1em;
+      font-size: 1.15em;
     }
+  }
+
+  // Prevent sidebar from causing horizontal scroll
+  .sidebar {
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .author__urls-wrapper {
+    max-width: 100%;
+
+    .author__urls {
+      flex-wrap: wrap;
+      max-width: 100%;
+    }
+  }
+
+  // Follow button: wrap below instead of extending right
+  .btn--inverse {
+    max-width: 100%;
+    white-space: normal;
+    word-wrap: break-word;
   }
 }
 
@@ -199,7 +221,14 @@ h1 {
   color: #000 !important;
 }
 
-/* Use header font for site title */
-.masthead .site-title {
-  font-family: $header-font-family;
+/* Use same font for masthead, nav, and author sidebar */
+.masthead,
+.masthead .site-title,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav a,
+.author__name,
+.author__bio,
+.author__urls-wrapper {
+  font-family: $global-font-family;
 }
