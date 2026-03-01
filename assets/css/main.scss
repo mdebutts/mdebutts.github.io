@@ -91,41 +91,39 @@ h1 {
   }
 }
 
-// Mobile: about page sidebar — full-width photo on top, name + bio below
+// Mobile-only profile (shown inline on about page)
+.mobile-profile {
+  display: none;
+}
+
 @media (max-width: 64em) {
+  // Hide the sidebar on mobile for all pages
   .sidebar {
-    max-width: 100%;
-    overflow: hidden;
-    text-align: center;
+    display: none;
   }
 
-  .author__avatar {
+  // Show the inline mobile profile on the about page
+  .mobile-profile {
     display: block;
-    width: 100%;
+    text-align: center;
+    margin-bottom: 1.5em;
 
     img {
-      max-width: 100%;
       width: 100%;
+      max-width: 100%;
+      border-radius: 0;
     }
-  }
 
-  .author__content {
-    display: block;
-    width: 100%;
-
-    .author__name {
+    h2 {
+      margin: 0.5em 0 0.2em;
       font-size: 1.5em;
-      margin-top: 0.5em;
     }
 
-    .author__bio {
+    p {
       font-size: 1.15em;
+      color: #555;
+      margin: 0;
     }
-  }
-
-  // Hide follow button on mobile
-  .author__urls-wrapper {
-    display: none;
   }
 }
 

@@ -67,10 +67,7 @@ plugins:
 author:
   name   : "Matt DeButts"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : |
-    PhD Candidate in Communication
-    Stanford University
-    Knight-Hennessy Scholar
+  bio    : ""
   links:
     - label: "CV (PDF)"
       icon : "far fa-fw fa-file-pdf"

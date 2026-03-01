@@ -2,7 +2,7 @@
 permalink: /research/
 # title: "Research"
 classes: wide
-author_profile: false
+author_profile: true
 ---
 
 ## Peer-Reviewed Publications

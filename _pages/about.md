@@ -4,6 +4,11 @@ permalink: /
 classes: wide
 ---
 
+<div class="mobile-profile">
+  <img src="/assets/images/bio-photo.jpg" alt="Matt DeButts">
+  <h2>Matt DeButts</h2>
+</div>
+
 I am a PhD candidate in the [Department of Communication](https://comm.stanford.edu/) at Stanford University, with a minor from the [Department of Political Science](https://politicalscience.stanford.edu/). I'm also a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/), a PhD scholar at [Stanford Data Science](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program), and a former graduate fellow at the [Stanford Center for Human-Centered Artificial Intelligence](https://hai.stanford.edu/news/stanford-hai-welcomes-graduate-postdoc-fellows). Prior to academia, I was also a China-based journalist for about five years. My [writing](https://mdebutts.github.io/journalism/) from that period was published with the *Los Angeles Times*, *Foreign Policy*, and *Vox*, among others. As a wandering expat, I also ended up doing various other jobs, such as working as a contributing editor for the [Economist Intelligence Unit](https://www.eiu.com/). At Stanford, I'm advised by [Jennifer Pan](https://jenpan.com). 
 
 My research examines **authoritarian influence on global media production** and **state-society relations in China**, alongside a developing line of work on **political self-censorship**. My work has been published in the *Journal of Communication*, *Social Media + Society*, *Communication and the Public*, and *China Quarterly* (forthcoming), as well as in *Findings of the Association for Computational Linguistics: EMNLP*, a conference proceeding. My research typically uses a combination of computational methods, large-scale datasets, and qualitative interviews to identify government intervention and evaluate its influence on media reporting and political behavior. 
