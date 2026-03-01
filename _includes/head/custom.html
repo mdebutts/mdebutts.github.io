@@ -10,17 +10,23 @@ document.addEventListener('DOMContentLoaded', function() {
     '/teaching': 'Teaching',
     '/journalism': 'Journalism'
   };
-  var currentPage = pages[path] || 'Matt DeButts';
+  var currentPage = pages[path];
+  if (!currentPage) return;
 
-  // Create mobile page title element
-  var titleEl = document.createElement('div');
-  titleEl.className = 'mobile-page-title';
-  titleEl.textContent = currentPage;
-
-  // Insert after masthead
-  var masthead = document.querySelector('.masthead');
-  if (masthead) {
-    masthead.parentNode.insertBefore(titleEl, masthead.nextSibling);
-  }
+  // On mobile, replace the "About" nav link text with the current tab name
+  var navLinks = document.querySelectorAll('.greedy-nav a.site-title');
+  // Actually target the nav menu links, not the site title
+  var menuLinks = document.querySelectorAll('.greedy-nav .visible-links a');
+  menuLinks.forEach(function(link) {
+    if (link.textContent.trim() === 'About') {
+      link.setAttribute('data-original-text', 'About');
+      // Use CSS class to only show modified text on mobile
+      link.classList.add('dynamic-nav-link');
+      if (currentPage !== 'About') {
+        // Create spans for mobile/desktop text switching
+        link.innerHTML = '<span class="nav-desktop-text">About</span><span class="nav-mobile-text">' + currentPage + '</span>';
+      }
+    }
+  });
 });
 </script>

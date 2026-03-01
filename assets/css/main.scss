@@ -91,9 +91,12 @@ h1 {
   }
 }
 
-// Dynamic mobile page title (hidden on desktop)
-.mobile-page-title {
+// Dynamic nav link: show desktop text on large screens, mobile text on small
+.nav-mobile-text {
   display: none;
+}
+.nav-desktop-text {
+  display: inline;
 }
 
 // Mobile-only profile (shown inline on about page)
@@ -102,15 +105,12 @@ h1 {
 }
 
 @media (max-width: 64em) {
-  .mobile-page-title {
-    display: block;
-    font-family: $global-font-family;
-    font-size: 1.8em;
-    font-weight: bold;
-    text-align: center;
-    padding: 0.5em 0 0.3em;
-    color: #000;
-    border-bottom: 1px solid #e0e0e0;
+  // Swap nav link text on mobile
+  .nav-mobile-text {
+    display: inline;
+  }
+  .nav-desktop-text {
+    display: none;
   }
 
   // Hide the sidebar on mobile for all pages
