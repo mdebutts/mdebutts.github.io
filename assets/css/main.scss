@@ -152,3 +152,9 @@ h1 {
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
+/* Make site title (top-left name) larger */
+.site-title {
+  font-size: 2rem;   /* adjust as desired */
+  font-weight: 600;
+}
