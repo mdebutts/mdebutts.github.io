@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title      : "Matt DeButts"
-subtitle   : "Political Communication • Journalism • China"
+subtitle   : ""
 description: >
   PhD Candidate in Communication (minor in Political Science) at Stanford.
   I study journalism, digital propaganda, and computational methods for
