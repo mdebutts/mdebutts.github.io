@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // Match Yingdan's system font stack
-$global-font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
-$header-font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif;
+$global-font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$header-font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 // Match Yingdan's heading sizes
 $type-size-1: 1.563em;
@@ -83,12 +83,22 @@ h1 {
   }
 }
 
-// Mobile: make author photo prominent
+// Mobile: make author profile prominent
 @media (max-width: 64em) {
   .author__avatar {
     img {
       max-width: 250px;
       width: 250px;
+    }
+  }
+
+  .author__content {
+    .author__name {
+      font-size: 1.5em;
+    }
+
+    .author__bio {
+      font-size: 1em;
     }
   }
 }
@@ -187,4 +197,9 @@ h1 {
 /* Make site title black */
 .masthead .site-title {
   color: #000 !important;
+}
+
+/* Use header font for site title */
+.masthead .site-title {
+  font-family: $header-font-family;
 }
