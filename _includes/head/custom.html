@@ -1,2 +1,26 @@
 <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname.replace(/\/$/, '') || '/';
+  var pages = {
+    '/': 'About',
+    '/research': 'Research',
+    '/teaching': 'Teaching',
+    '/journalism': 'Journalism'
+  };
+  var currentPage = pages[path] || 'Matt DeButts';
+
+  // Create mobile page title element
+  var titleEl = document.createElement('div');
+  titleEl.className = 'mobile-page-title';
+  titleEl.textContent = currentPage;
+
+  // Insert after masthead
+  var masthead = document.querySelector('.masthead');
+  if (masthead) {
+    masthead.parentNode.insertBefore(titleEl, masthead.nextSibling);
+  }
+});
+</script>

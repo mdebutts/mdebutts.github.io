@@ -86,9 +86,14 @@ h1 {
 // Square, larger author avatar
 .author__avatar {
   img {
-    max-width: 200px;
+    max-width: 250px;
     border-radius: 0;
   }
+}
+
+// Dynamic mobile page title (hidden on desktop)
+.mobile-page-title {
+  display: none;
 }
 
 // Mobile-only profile (shown inline on about page)
@@ -97,6 +102,17 @@ h1 {
 }
 
 @media (max-width: 64em) {
+  .mobile-page-title {
+    display: block;
+    font-family: $global-font-family;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.5em 0 0.3em;
+    color: #000;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
   // Hide the sidebar on mobile for all pages
   .sidebar {
     display: none;
