@@ -27,8 +27,10 @@ academicons: true
 
 robots: "noindex,nofollow" # Toggle this when you're ready
 
-# Google Analytics (uncomment when ready)
-# google_analytics: "G-XXXXXXX"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-7NRHB1TCGH"
 
 # Build settings
 markdown: kramdown
