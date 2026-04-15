@@ -86,8 +86,16 @@ h1 {
 // Square, larger author avatar
 .author__avatar {
   img {
-    max-width: 250px;
+    width: 100%;
+    max-width: 200px;
     border-radius: 0;
+  }
+}
+
+// Prevent avatar from becoming oversized at slightly narrow desktop widths
+@media (min-width: 64em) and (max-width: 80em) {
+  .author__avatar img {
+    max-width: 150px;
   }
 }
 
