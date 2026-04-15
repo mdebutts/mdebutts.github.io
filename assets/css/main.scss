@@ -83,16 +83,19 @@ h1 {
   color: inherit;
 }
 
-// Square, larger author avatar — remove theme's greyscale hover effect
+// Square, larger author avatar
 .author__avatar {
   img {
     width: 100%;
     max-width: 200px;
     border-radius: 0;
-    filter: none;
-    opacity: 1;
-    -webkit-filter: none;
   }
+}
+
+// Remove theme's sidebar fade-on-hover (opacity: 0.75 -> 1)
+.sidebar {
+  opacity: 1 !important;
+  transition: none !important;
 }
 
 // Prevent avatar from becoming oversized at slightly narrow desktop widths
