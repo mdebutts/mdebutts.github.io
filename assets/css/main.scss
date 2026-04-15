@@ -83,12 +83,15 @@ h1 {
   color: inherit;
 }
 
-// Square, larger author avatar
+// Square, larger author avatar — remove theme's greyscale hover effect
 .author__avatar {
   img {
     width: 100%;
     max-width: 200px;
     border-radius: 0;
+    filter: none;
+    opacity: 1;
+    -webkit-filter: none;
   }
 }
 
