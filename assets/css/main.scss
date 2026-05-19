@@ -159,14 +159,27 @@ h1 {
   }
 }
 
-// Tighter line spacing for the research page publication list
+// Numbered publication lists on the research page
 .research-list {
-  p {
-    margin: 0 0 0.4em;
+  ol {
+    padding-left: 1.5em;
+    margin: 0.5em 0 1.5em;
+  }
+
+  li {
+    margin-bottom: 0.9em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    p {
+      margin: 0;
+    }
   }
 
   h2 {
-    margin-top: 1.2em;
+    margin-top: 1.5em;
     border-bottom-color: #666;
   }
 }
