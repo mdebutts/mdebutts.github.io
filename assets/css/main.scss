@@ -179,11 +179,17 @@ h1 {
   }
 }
 
-// Darker section dividers on the research and teaching pages
-.research-list h2,
-.teaching-list h2 {
+// Darker section dividers on the research page
+.research-list h2 {
   margin-top: 1.5em;
   border-bottom-color: #666;
+}
+
+// Thin grey dividers under teaching-page subsections (h3, smaller than h2)
+.teaching-list h3 {
+  margin-top: 1.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #666;
 }
 
 // Journalism article rows with logos
