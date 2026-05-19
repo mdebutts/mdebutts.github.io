@@ -21,7 +21,7 @@ author_profile: true
 
 ## Working Papers
 
-1. **Matt DeButts**, Jennifer Pan. "Media Patronage: How Authoritarian Regimes Exploit Media Competition to Shape Global Information." Presented at APSA 2025.
+1. **Matt DeButts**, Jennifer Pan. "Media Patronage: Selection and Survival to Shape Foreign Media." Presented at APSA 2025.
 2. **Matt DeButts**. "The Advantages of Overt Censorship: How Platform Blocking Enables China to Reshape the Global Information Ecosystem." Dissertation chapter.
 
 ## Book Chapter
