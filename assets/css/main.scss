@@ -177,11 +177,13 @@ h1 {
       margin: 0;
     }
   }
+}
 
-  h2 {
-    margin-top: 1.5em;
-    border-bottom-color: #666;
-  }
+// Darker section dividers on the research and teaching pages
+.research-list h2,
+.teaching-list h2 {
+  margin-top: 1.5em;
+  border-bottom-color: #666;
 }
 
 // Journalism article rows with logos
