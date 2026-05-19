@@ -17,12 +17,12 @@ author_profile: true
 
 ## Under Review
 
-1. **Matt DeButts**, Yingdan Lu. "'Intimate' Propaganda: How Authoritarian Regimes Adapt Propaganda to Video-Sharing Platforms." R&R at *Journal of Communication*.
+1. **Matt DeButts**, Yingdan Lu. "Intimacy with Limits: How Short-Form Video Propaganda Embraces Platform Norms, but Not for Leaders." R&R at *Journal of Communication*.
 
 ## Working Papers
 
 1. **Matt DeButts**, Jennifer Pan. "Media Patronage: How Authoritarian Regimes Exploit Media Competition to Shape Global Information." Presented at APSA 2025.
-2. **Matt DeButts**. "Head for the Exits: Selective Self-Censorship in Global Chinese Podcasts." Dissertation chapter.
+2. **Matt DeButts**. "The Advantages of Overt Censorship: How Platform Blocking Enables China to Reshape the Global Information Ecosystem." Dissertation chapter.
 
 ## Book Chapter
 
