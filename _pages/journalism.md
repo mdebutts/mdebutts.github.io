@@ -96,6 +96,26 @@ author_profile: true
 </div>
 
 <div class="journalism-item">
+  <a href="https://www.sixthtone.com/news/1001276" class="journalism-logo">
+    <img src="/assets/images/logos/sixthtone.png" alt="Sixth Tone">
+  </a>
+  <div class="journalism-text">
+    <a href="https://www.sixthtone.com/news/1001276">Tunnel Vision: Reimagining Chongqing's Former Air-Raid Shelters</a>
+    <p>Wartime bomb shelters get a second life as a commercial complex.</p>
+  </div>
+</div>
+
+<div class="journalism-item">
+  <a href="https://www.sixthtone.com/news/2135" class="journalism-logo">
+    <img src="/assets/images/logos/sixthtone.png" alt="Sixth Tone">
+  </a>
+  <div class="journalism-text">
+    <a href="https://www.sixthtone.com/news/2135">Swipe Here to Mourn Your Loved Ones</a>
+    <p>A Beijing columbarium brings swipe cards to the rituals of remembrance.</p>
+  </div>
+</div>
+
+<div class="journalism-item">
   <a href="https://foreignpolicy.com/2016/12/08/chinas-students-are-sharing-their-secrets-in-english" class="journalism-logo">
     <img src="/assets/images/logos/foreignpolicy.png" alt="Foreign Policy">
   </a>
