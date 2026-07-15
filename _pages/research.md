@@ -26,7 +26,7 @@ author_profile: true
 
 ## Book Chapter
 
-1. Lu, Y. & **DeButts, M.** "How to Use Computational Methods and Online Experiments to Study Chinese Digital Media." In Xu J., Guo S., and Zhang W. (Eds.), *The Sage Handbook on Chinese Digital Media and Communication*. In press.
+1. Lu, Y. & **DeButts, M.** "How to Use Computational Methods and Online Experiments to Study Chinese Digital Media." In Xu J., Guo S., and Zhang W. (Eds.), *The Sage Handbook on Chinese Digital Media and Communication*. In press. [[PDF](/assets/papers/LuDeButts25_Sage.pdf)]
 
 ## Policy & Public Writing
 
