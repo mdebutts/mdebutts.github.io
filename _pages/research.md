@@ -31,9 +31,9 @@ author_profile: true
 ## Policy & Public Writing
 
 1. Renee DiResta, **Matt DeButts**. "Newsworthiness, Trump, and the Facebook Oversight Board." *Columbia Journalism Review*, April 2021. [[link](https://www.cjr.org/the_new_gatekeepers/facebook-oversight-board-2.php)]
-2. **Matt DeButts**. "The Chinese Ministry of Foreign Affairs Twitter Data Set." *U.S. China Perception Monitor*, Carter Center, April 2021. [[link](https://uscnpm.org/2021/04/14/the-chinese-mfa-data-set-insights/)]
-3. Jack Cable, **Matt DeButts**, Renee DiResta, Riana Pfefferkorn, Alex Stamos, David Thiel. "Clubhouse in China: Is the Data Safe?" Stanford Internet Observatory, February 2021.
-4. **Matt DeButts**, Maya Guzdar, Vanessa Molter. "Chinese Expat News Site Resists CCP Influence." Stanford Internet Observatory, September 2020.
-5. Center for an Informed Public, Digital Forensic Research Lab, Graphika, & Stanford Internet Observatory. "The Long Fuse: Misinformation and the 2020 Election." Stanford Digital Repository: Election Integrity Partnership, March 2021. [[link](https://purl.stanford.edu/tr171zs0069)]
+2. **Matt DeButts**. "The Chinese Ministry of Foreign Affairs Twitter Data Set." *U.S. China Perception Monitor*, Carter Center, April 2021. [[link](https://uscnpm.org/analysis/the-chinese-mfa-data-set-insights/)]
+3. Jack Cable, **Matt DeButts**, Renee DiResta, Riana Pfefferkorn, Alex Stamos, David Thiel. "Clubhouse in China: Is the Data Safe?" Stanford Internet Observatory, February 2021. [[Wayback](https://web.archive.org/web/20251014054919/https://cyber.fsi.stanford.edu/io/news/clubhouse-china)] [[PDF](/assets/white_papers/SIO_Clubhouse.pdf)]
+4. **Matt DeButts**, Maya Guzdar, Vanessa Molter. "Chinese Expat News Site Resists CCP Influence." Stanford Internet Observatory, September 2020. [[Wayback](https://web.archive.org/web/20250126060208/https://cyber.fsi.stanford.edu/io/news/chinese-expat-news-site-resists-ccp-influence-0)] [[PDF](/assets/white_papers/SIO_Expat_Wayback.pdf)]
+5. Center for an Informed Public, Digital Forensic Research Lab, Graphika, & Stanford Internet Observatory. "The Long Fuse: Misinformation and the 2020 Election." Stanford Digital Repository: Election Integrity Partnership, March 2021. [[link](https://purl.stanford.edu/tr171zs0069)] [[PDF](/assets/white_papers/EIP-Final-Report.pdf)]
 
 </div>
