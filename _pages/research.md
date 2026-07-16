@@ -21,12 +21,12 @@ author_profile: true
 
 ## Working Papers
 
-1. **Matt DeButts**, Jennifer Pan. "Media Patronage: Selection and Survival to Shape Foreign Media." Presented at APSA 2025.
-2. **Matt DeButts**. "The Advantages of Overt Censorship: How Platform Blocking Enables China to Reshape the Global Information Ecosystem." Dissertation chapter.
+1. **Matt DeButts**, Jennifer Pan. "Media Patronage: Selection and Survival to Shape Foreign Media." Presented at APSA 2025. [[PDF](/assets/working_papers/DeButtsPan2026_MediaPatronage.pdf)]
+2. **Matt DeButts**. "The Advantages of Overt Censorship: How Platform Blocking Enables China to Reshape the Global Information Ecosystem." Dissertation chapter. [[PDF](/assets/working_papers/DeButts2026_OvertCensorship.pdf)]
 
 ## Book Chapter
 
-1. Lu, Y. & **DeButts, M.** "How to Use Computational Methods and Online Experiments to Study Chinese Digital Media." In Xu J., Guo S., and Zhang W. (Eds.), *The Sage Handbook on Chinese Digital Media and Communication*. In press. [[PDF](/assets/papers/LuDeButts25_Sage.pdf)]
+1. Lu, Y. & **DeButts, M.** "How to Use Computational Methods and Online Experiments to Study Chinese Digital Media." In Xu J., Guo S., and Zhang W. (Eds.), *The Sage Handbook on Chinese Digital Media and Communication*, 2026. [[PDF](/assets/papers/LuDeButts25_Sage.pdf)]
 
 ## Policy & Public Writing
 
