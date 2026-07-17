@@ -87,7 +87,7 @@ h1 {
 .author__avatar {
   img {
     width: 100%;
-    max-width: 200px;
+    max-width: 240px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     object-position: center;
@@ -104,7 +104,7 @@ h1 {
 // Prevent avatar from becoming oversized at slightly narrow desktop widths
 @media (min-width: 64em) and (max-width: 80em) {
   .author__avatar img {
-    max-width: 150px;
+    max-width: 180px;
   }
 }
 
@@ -144,7 +144,7 @@ h1 {
     img {
       display: block;
       margin: 0 auto;
-      width: 200px;
+      width: 240px;
       max-width: 100%;
       aspect-ratio: 1 / 1;
       object-fit: cover;
