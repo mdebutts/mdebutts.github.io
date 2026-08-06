@@ -9,7 +9,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-1. **Matt DeButts**, Tongtong Zhang. "Is Rights Consciousness Rising in China? Evidence from Thirteen Years of Citizen Complaints." *China Quarterly*, forthcoming. [[PDF](/assets/papers/DeButtsZhang26_CQ.pdf)]
+1. **Matt DeButts**, Tongtong Zhang. "Rising Engagement and Substantive Responsiveness: 13 Years of Online Petitioning in China." *China Quarterly*, 2026. [[DOI](https://doi.org/10.1017/S0305741026102550)] [[PDF](/assets/papers/DeButtsZhang26_CQ.pdf)]
 2. **Matt DeButts**, Jennifer Pan. "Reporting After Removal: The Effects of Journalist Expulsion on Foreign News Coverage." *Journal of Communication*, 2024. [[DOI](https://doi.org/10.1093/joc/jqae001)] [[PDF](/assets/papers/DeButtsPan24_JOC.pdf)]
 3. Alexander Spangher, James Youn, **Matt DeButts**, Nanyun Peng, Emilio Ferrara, Jonathan May. "Explaining Mixtures of Sources in News Articles." *EMNLP Proceedings*, 2024. [[link](https://aclanthology.org/2024.findings-emnlp.930/)] [[PDF](/assets/papers/Spangheretal24_EMNLPF.pdf)]
 4. **Matt DeButts**, Jennifer Pan. "China's Internet Controls: What if Citizens Disengage?" *Communication and the Public*, 2024. [[DOI](https://doi.org/10.1177/20570473241267966)] [[PDF](/assets/papers/DeButtsPan24_CommPub.pdf)]
