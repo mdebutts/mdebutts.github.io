@@ -17,7 +17,7 @@ author_profile: true
 
 ## Under Review
 
-1. **Matt DeButts**, Yingdan Lu. "Intimacy with Limits: How Short-Form Video Propaganda Embraces Platform Norms, but Not for Leaders." R&R at *Journal of Communication*.
+1. **Matt DeButts**, Yingdan Lu. "Intimacy with Limits: How Short-Form Video Propaganda Embraces Platform Norms, but Not for Leaders." Minor revisions at *Journal of Communication*.
 
 ## Working Papers
 
