@@ -9,15 +9,14 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-1. **Matt DeButts**, Tongtong Zhang. "Rising Engagement and Substantive Responsiveness: 13 Years of Online Petitioning in China." *The China Quarterly*, 2026. [[DOI](https://doi.org/10.1017/S0305741026102550)] [[PDF](/assets/papers/DeButtsZhang26_CQ.pdf)]
-2. **Matt DeButts**, Jennifer Pan. "Reporting After Removal: The Effects of Journalist Expulsion on Foreign News Coverage." *Journal of Communication*, 2024. [[DOI](https://doi.org/10.1093/joc/jqae001)] [[PDF](/assets/papers/DeButtsPan24_JOC.pdf)]
-3. Alexander Spangher, James Youn, **Matt DeButts**, Nanyun Peng, Emilio Ferrara, Jonathan May. "Explaining Mixtures of Sources in News Articles." *EMNLP Proceedings*, 2024. [[link](https://aclanthology.org/2024.findings-emnlp.930/)] [[PDF](/assets/papers/Spangheretal24_EMNLPF.pdf)]
-4. **Matt DeButts**, Jennifer Pan. "China's Internet Controls: What if Citizens Disengage?" *Communication and the Public*, 2024. [[DOI](https://doi.org/10.1177/20570473241267966)] [[PDF](/assets/papers/DeButtsPan24_CommPub.pdf)]
-5. Kate Starbird, Renee DiResta, **Matt DeButts**. "Influence and Improvisation: Participatory Disinformation during the 2020 U.S. Election." *Social Media + Society*, 2023. [[DOI](https://doi.org/10.1177/20563051231156353)] [[PDF](/assets/papers/Starbirdetal23_SMS.pdf)]
+1. **Matt DeButts**, Yingdan Lu. "Intimacy with Limits: How Short-Form Video Propaganda Embraces Platform Norms, but Not for Leaders." *Journal of Communication*. Forthcoming, 2026.
+2. **Matt DeButts**, Tongtong Zhang. "Rising Engagement and Substantive Responsiveness: 13 Years of Online Petitioning in China." *The China Quarterly*, 2026. [[DOI](https://doi.org/10.1017/S0305741026102550)] [[PDF](/assets/papers/DeButtsZhang26_CQ.pdf)]
+3. **Matt DeButts**, Jennifer Pan. "Reporting After Removal: The Effects of Journalist Expulsion on Foreign News Coverage." *Journal of Communication*, 2024. [[DOI](https://doi.org/10.1093/joc/jqae001)] [[PDF](/assets/papers/DeButtsPan24_JOC.pdf)]
+4. Alexander Spangher, James Youn, **Matt DeButts**, Nanyun Peng, Emilio Ferrara, Jonathan May. "Explaining Mixtures of Sources in News Articles." *EMNLP Proceedings*, 2024. [[link](https://aclanthology.org/2024.findings-emnlp.930/)] [[PDF](/assets/papers/Spangheretal24_EMNLPF.pdf)]
+5. **Matt DeButts**, Jennifer Pan. "China's Internet Controls: What if Citizens Disengage?" *Communication and the Public*, 2024. [[DOI](https://doi.org/10.1177/20570473241267966)] [[PDF](/assets/papers/DeButtsPan24_CommPub.pdf)]
+6. Kate Starbird, Renee DiResta, **Matt DeButts**. "Influence and Improvisation: Participatory Disinformation during the 2020 U.S. Election." *Social Media + Society*, 2023. [[DOI](https://doi.org/10.1177/20563051231156353)] [[PDF](/assets/papers/Starbirdetal23_SMS.pdf)]
 
-## Under Review
-
-1. **Matt DeButts**, Yingdan Lu. "Intimacy with Limits: How Short-Form Video Propaganda Embraces Platform Norms, but Not for Leaders." Minor revisions at *Journal of Communication*.
+<!-- ## Under Review -->
 
 ## Working Papers
 
