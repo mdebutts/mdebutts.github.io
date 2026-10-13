@@ -66,11 +66,11 @@ author_profile: true
 </div>
 
 <div class="journalism-item">
-  <a href="https://www.vox.com/2020/4/15/21220198/coronavirus-hospital-workers-environmental-service-cleaners" class="journalism-logo">
+  <a href="https://www.vox.com/identities/2020/4/14/21218956/hospital-workers-emt-masks-coronavirus-covid-19" class="journalism-logo">
     <img src="/assets/images/logos/vox.jpg" alt="Vox">
   </a>
   <div class="journalism-text">
-    <a href="https://www.vox.com/2020/4/15/21220198/coronavirus-hospital-workers-environmental-service-cleaners">The Other Hospital Workers on the Pandemic's Front Lines</a>
+    <a href="https://www.vox.com/identities/2020/4/14/21218956/hospital-workers-emt-masks-coronavirus-covid-19">The Other Hospital Workers on the Pandemic's Front Lines</a>
     <p>Early burdens of the COVID-19 fell on the folks least protected from it.</p>
   </div>
 </div>
